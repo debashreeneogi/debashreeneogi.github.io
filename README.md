@@ -55,7 +55,7 @@ When not working, you’ll find me mentoring, exploring NYC’s vibrant culture,
 
 ---
 
-## Tech Stack
+## Tech Stack
 
 ```text
 Research Tools     : REDCap • SAS • SPSS • R • Qualtrics
