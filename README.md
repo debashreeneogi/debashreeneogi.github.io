@@ -17,7 +17,7 @@
 ## 📂 Table of Contents
 
 1. [About](#about)
-2. [Posters & Thesis](#posters-&-thesis)
+2. [Posters & Thesis](#posters---thesis)
 3. [Tech Stack](#tech-stack)
 4. [Experience](#experience)
 5. [Leadership & Activities](#leadership--activities)
