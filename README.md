@@ -8,7 +8,9 @@
 
 <p align="center">
   <a href="mailto:neogi52@gmail.com"><img src="https://img.shields.io/badge/Email-neogi52@gmail.com-informational?style=flat-square&logo=gmail" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/drdebashreeneogi/"><img src="https://img.shields.io/badge/LinkedIn-drdebashree--neogi-?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/drdebashreeneogi/">
+  <img src="https://img.shields.io/badge/LinkedIn-drdebashreeneogi-informational?style=flat-square&logo=linkedin" alt="LinkedIn">
+</a>
 
 ---
 
